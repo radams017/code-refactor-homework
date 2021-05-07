@@ -11,4 +11,4 @@
 ## Index.html Adjustments
 
 - The first change made was to replaced various instances of the `<div>` element with semantic elements such as `<header>`, `<section>`, and `<footer>`.
-![Semantic Header](~./code-refactor-homework/README-IMG/semanticheader.png "Semantic Header")
+![Semantic Header](./code-refactor-homework/README-IMG/semanticheader.png "Semantic Header")
