@@ -86,6 +86,8 @@ p {
     background-color: #2589bd;
 }
 
+/* Benefits CSS Consolidation */
+
 .benefits-box {
     margin-bottom: 32px;
     color: #ffffff;
@@ -101,6 +103,8 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+
+/* Content CSS Consolidation */
 
 .content-box {
     margin-bottom: 20px;
